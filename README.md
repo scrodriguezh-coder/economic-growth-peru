@@ -1,5 +1,5 @@
-# economic-growth-peru
-Analysis of external factors and economic growth in Peru
+# economic-growth-peru-var-analysis
+Econometric analysis of Peru’s GDP growth using VAR model, IRF, and Granger causality
 
 # Impact of External Factors on Peru’s Economic Growth (1994–2019)
 
